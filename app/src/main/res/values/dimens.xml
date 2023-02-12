@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="form_margin_top">14dp</dimen>
+    <dimen name="list_padding">50dp</dimen>
+    <dimen name="list_height">70dp</dimen>
+    <dimen name="list_icon_padding_side">16dp</dimen>
+    <dimen name="list_icon_padding_top">8dp</dimen>
+    <dimen name="icon_width">48dp</dimen>
+    <dimen name="icon_height">48dp</dimen>
+    <dimen name="icon_width_selected">36dp</dimen>
+    <dimen name="icon_height_selected">36dp</dimen>
+</resources>

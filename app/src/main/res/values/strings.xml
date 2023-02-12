@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Spinner Demo</string>
+    <string name="basic">Basic</string>
+    <string name="social">Social networks</string>
+    <string name="dialog">Dialog</string>
+    <string name="background">Background</string>
+    <string name="custom_layout">Custom layout</string>
+    <string name="custom_adapter">Custom adapter</string>
+
+
+    <string name="none">None</string>
+    <string name="facebook">Facebook</string>
+    <string name="reddit">Reddit</string>
+    <string name="twitter">Twitter</string>
+    <string name="youtube">Youtube</string>
+
+    <string-array name="social_networks_array">
+        <item>@string/none</item>
+        <item>@string/facebook</item>
+        <item>@string/reddit</item>
+        <item>@string/twitter</item>
+        <item>@string/youtube</item>
+    </string-array>
+
+</resources>

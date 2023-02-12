@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primaryDark</item>
+        <item name="toolbarStyle">@style/Widget.MaterialComponents.Toolbar.PrimarySurface</item>
+        <!--<item name="android:spinnerItemStyle">@style/AppTheme.SpinnerItem</item>-->
+        <!--<item name="android:spinnerDropDownItemStyle">@style/AppTheme.DropDownItem</item>-->
+    </style>
+
+    <style name="AppTheme.SpinnerItem" parent="@android:style/Widget.TextView.SpinnerItem">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="AppTheme.DropDownItem" parent="@android:style/Widget.DropDownItem">
+        <item name="android:layout_height">@dimen/list_height</item>
+        <item name="android:paddingStart">@dimen/list_padding</item>
+        <item name="android:paddingEnd">@dimen/list_padding</item>
+    </style>
+
+</resources>
